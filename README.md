@@ -5,6 +5,8 @@
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
 
+<img src = "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/12cbe8a4-f55c-4b40-85bb-d8e1405e7b84/dg5u7u2-a0042e50-9b60-4e2e-acbf-7fc66d8ef53f.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzEyY2JlOGE0LWY1NWMtNGI0MC04NWJiLWQ4ZTE0MDVlN2I4NFwvZGc1dTd1Mi1hMDA0MmU1MC05YjYwLTRlMmUtYWNiZi03ZmM2NmQ4ZWY1M2YuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.PPtsfJdqFjfFvnUJmVM9164OSuG2mYilLSuUEJr2MfY" />
+
 A deep learning image classifier that distinguishes between various object types like **birds**, **donkeys**, **houses**, **forests**, and even **certificates**, built for fun, exploration, and practical understanding of vision models.
 
 ---
